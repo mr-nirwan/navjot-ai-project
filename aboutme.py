@@ -20,7 +20,7 @@ def aboutme():
             Which offer a suite of tools that optimize the systematic review and meta-analysis process, making it more efficient and accurate.
             """)
         with col2:
-            col2.image('kevin8.png')
+            col2.image('navjotkaur1.png')
 
     
 if __name__ == "__main__":
